@@ -91,29 +91,7 @@ public class GuessingRandomNumbers {
             System.out.println("it was nice knowing you!!!");
         }
         System.out.println("The random number was "+randomNumber);
-
-
-
-
-
-// while (guessedNumber!=randomNumber) {
-//
-//     if (guessedNumber > randomNumber) {
-//         System.out.println("guess smaller");
-//
-//
-//     } else {
-//         System.out.println("guess higher");
-//
-//     }
-//
-//
-//         //if the input is equal to x, congratulate the user for his or her winning
-//     break;
-// }
-//        System.out.println("Congratulation "+name+" you WON!!!");
-
-
+        
 
 //make a rule that the user be able to guess up to 5 times
 // if its 5 or more time  then prompt the user with a game over message
